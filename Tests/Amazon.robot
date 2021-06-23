@@ -21,6 +21,5 @@ User must sign in to check out
     wait until page contains    Cart subtotal (1 item)
     CLOSE BROWSER
 
-Logged out user can view products
-    [Tags]    Smoke View
-    
+Logged out user must login to checkout
+    [Tags]  Smoke Checkout
