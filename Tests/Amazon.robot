@@ -9,7 +9,7 @@ Library    SeleniumLibrary
 *** Test Cases ***
 User must sign in to check out
     [Documentation]    this is some basic info about the test
-    [Tags]    Smoke
+    [Tags]    Smoke Products
     OPEN BROWSER    http://www.amazon.com   chrome
     Input Text    id=twotabsearchtextbox    Ferrari 458
     click button    id=nav-search-submit-button
