@@ -23,3 +23,6 @@ User must sign in to check out
 
 Logged out user must login to checkout
     [Tags]  Smoke Checkout
+
+Logged out user can view products
+    [Tags]    Smoke View
