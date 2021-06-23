@@ -20,3 +20,7 @@ User must sign in to check out
     click button    id=add-to-cart-button
     wait until page contains    Cart subtotal (1 item)
     CLOSE BROWSER
+
+Logged out user can view products
+    [Tags]    Smoke View
+    
